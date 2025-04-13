@@ -1,0 +1,7 @@
+C:\Automation\PlaywrightAutomation\obj\Debug\net48\PlaywrightAutomation.csproj.AssemblyReference.cache
+C:\Automation\PlaywrightAutomation\obj\Debug\net48\PlaywrightAutomation.csproj.SuggestedBindingRedirects.cache
+C:\Automation\PlaywrightAutomation\obj\Debug\net48\PlaywrightAutomation.dll.config
+C:\Automation\PlaywrightAutomation\obj\Debug\net48\PlaywrightAutomation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Automation\PlaywrightAutomation\obj\Debug\net48\PlaywrightAutomation.AssemblyInfoInputs.cache
+C:\Automation\PlaywrightAutomation\obj\Debug\net48\PlaywrightAutomation.AssemblyInfo.cs
+C:\Automation\PlaywrightAutomation\obj\Debug\net48\PlaywrightAutomation.csproj.CoreCompileInputs.cache
